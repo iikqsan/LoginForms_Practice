@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+}
+
+.form-control {
+    display: inline;
+    width: 300px;
+}
+
+.list-group {
+    display: inline-flex;
+    flex-direction: row;
+}
+
+.list-group-item {
+    border: none;
+}
